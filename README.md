@@ -1,5 +1,5 @@
 ### install
-You have to have `Node` and `npm` installed on your system.
+You have to have `Node > 10.0.0` and `npm` installed on your system.
 Then clone this project:
 ```
 git clone https://github.com/xuxiaoyuspallow/lightScreenShot.git
@@ -18,5 +18,5 @@ npm config set puppeteer_download_host "https://npm.taobao.org/mirrors"
 
 ### usage
 ```
-node index.js -f  
+node screenshot.js -f  example.com.txt
 ```

@@ -2,14 +2,15 @@
   "name": "lightscreentool",
   "version": "1.0.0",
   "description": "A tool to take websites' screen shots",
-  "main": "index.js",
+  "main": "screenShot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "xxy",
   "license": "MIT",
   "dependencies": {
+    "args-parser": "1.1.0",
     "puppeteer": "1.17.0",
-    "yargs": "13.2.4"
+    "uuid": "^3.3.2"
   }
 }
