@@ -9,7 +9,6 @@
   "author": "xxy",
   "license": "MIT",
   "dependencies": {
-    "args-parser": "1.1.0",
     "puppeteer": "1.17.0",
     "uuid": "^3.3.2"
   }
